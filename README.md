@@ -12,4 +12,5 @@ Welcome to my portfolio! Here you'll find a collection of my projects, technical
 - SQL Server
 
 ## Contact
-You can reach me at [pk4426878@gmail.com](mailto:pk4426878@gmail.com) or via [LinkedIn](www.linkedin.com/in/pradeep-kumar-prajapati/in/pradeep121274).
+You can reach me at [pk4426878@gmail.com](mailto:pk4426878@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/pradeep-kumar-prajapati/
+).
